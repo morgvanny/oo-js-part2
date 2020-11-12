@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode",
+      "content": "some sample content"
+    },
+    {
+      "id": 2,
+      "title": "another",
+      "author": "typicode",
+      "content": "some sample content"
+    },
+    {
+      "title": "a",
+      "content": "c",
+      "author": "b",
+      "id": 3
+    }
+  ]
+}
